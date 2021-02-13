@@ -1,4 +1,4 @@
-module github.com/al-haras/malbaz
+module malbaz
 
 go 1.15
 
